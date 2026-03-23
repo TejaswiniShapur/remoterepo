@@ -1,1 +1,2 @@
 feature support XYZ
+This is change from branch conflictTest
